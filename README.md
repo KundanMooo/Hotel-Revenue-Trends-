@@ -31,4 +31,9 @@ Collect feedback using surveys to find areas for improvement. Make the hotel a p
 #7.Focus on Profitable Platforms:
 Even if the realization rate is 70%, the largest profit comes from specialised booking platforms.
 Understand why and invest in visibility, marketing, and pricing strategies for those platforms to optimise profitability.
-![image](https://github.com/KundanMooo/-Analyzing-Revenue-Trends-for-a-Hotel-Chain-Using-Power-BI/assets/130728166/a1ece41d-42da-49fa-be5b-ab4839bfb597)
+
+
+
+
+
+![Dashboard](https://github.com/KundanMooo/-Analyzing-Revenue-Trends-for-a-Hotel-Chain-Using-Power-BI/assets/130728166/3480c7a3-4580-4447-ac13-031860633d96)
