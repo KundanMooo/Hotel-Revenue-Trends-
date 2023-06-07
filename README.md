@@ -1,6 +1,17 @@
 # -Analyzing-Revenue-Trends-for-a-Hotel-Chain-Using-Power-BI
 
-Insights 
+#-Project-Description:
+- The AtliQ Hospitality Revenue Analytics project focused on evaluating important indicators and measurements in the hospitality domain to monitor performance and make educated decisions.
+The project involves evaluating crucial parameters such as RevPAR (Revenue per available room), occupancy rates, ADR (Average Daily Rate), DSRN (Daily Sellable Room Nights), and realization rates.
+- Through the project, we obtained insights into the hotel business, including pricing tactics, the link between ratings and occupancy,
+the need of an updated web presence, and the influence of dynamic pricing. The study also emphasised the relevance of data visualization,
+especially the usage of charts as tooltips, to effectively convey findings and aid decision-making.
+- By studying these insights and trends, we were able to make practical implications for increasing business performance.
+- Overall, the AtliQ Hospitality Revenue Analytics project provided excellent domain knowledge and practical expertise in the hospitality business,
+helping us to make informed decisions, boost revenue production, and enhance customer pleasure.
+
+
+#Insights 
 
 
 #1. Update Hotel Appearance:
