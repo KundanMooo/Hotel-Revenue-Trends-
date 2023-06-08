@@ -14,7 +14,7 @@ especially the usage of charts as tooltips, to effectively convey findings and a
 helping us to make informed decisions, boost revenue production, and enhance customer pleasure.
 
 
-# Insights 
+# Insights and Suggestions
 
 
 ## 1. Update Hotel Appearance:
